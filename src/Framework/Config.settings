@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DriverPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">.\\..\\..\\..\\Resources</Value>
+      <Value Profile="(Default)">.\..\..\..\Resources</Value>
     </Setting>
     <Setting Name="Browser" Type="System.String" Scope="User">
       <Value Profile="(Default)">Firefox</Value>

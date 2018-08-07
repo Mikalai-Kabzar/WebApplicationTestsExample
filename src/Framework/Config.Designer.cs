@@ -25,7 +25,7 @@ namespace Framework {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute(".\\\\..\\\\..\\\\..\\\\Resources")]
+        [global::System.Configuration.DefaultSettingValueAttribute(".\\..\\..\\..\\Resources")]
         public string DriverPath {
             get {
                 return ((string)(this["DriverPath"]));

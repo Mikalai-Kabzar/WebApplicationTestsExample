@@ -49,7 +49,7 @@ namespace TestRunner {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("d:\\WebApplicationTestsExample\\src\\TestRunner\\nunit\\nunit3-console.exe")]
+        [global::System.Configuration.DefaultSettingValueAttribute(".\\..\\..\\nunit\\nunit3-console.exe")]
         public string Console {
             get {
                 return ((string)(this["Console"]));
