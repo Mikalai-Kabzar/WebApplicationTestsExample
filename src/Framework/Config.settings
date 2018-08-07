@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Framework" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="DriverPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\\..\\..\\..\\Resources</Value>
+    </Setting>
+    <Setting Name="Browser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Firefox</Value>
+    </Setting>
+    <Setting Name="ExplicitWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="ImplicitWait" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
