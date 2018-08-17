@@ -16,3 +16,4 @@ Features:
 ```
 allure serve bla-bla-folder-with-allure-results-folder
 ```
+7. Enjoy.
