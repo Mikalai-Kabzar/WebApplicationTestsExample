@@ -12,4 +12,7 @@ Features:
 3. Download NUnit-Console (https://github.com/nunit/nunit-console) and copy to {SolutionPath}/TestRunner/nunit folder.
 4. Download all necessary web drivers you need (only Chrome and Firefox supported yet) and copy .exe to {SolutionPath}/Resources folder.
 5. Execute autotests.
-6. Generate Allure report.
+6. Generate Allure report with command.
+```
+allure serve bla-bla-folder-with-allure-results-folder
+```
